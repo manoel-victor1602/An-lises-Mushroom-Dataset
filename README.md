@@ -1,2 +1,2 @@
-# An-lises-Mushroom-Dataset
+# Analises-Mushroom-Dataset
 Algumas análises feitas no Mushroom Dataset
